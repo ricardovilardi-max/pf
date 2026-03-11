@@ -1,0 +1,3 @@
+[submodule "peopleforce-ds"]
+	path = peopleforce-ds
+	url = https://github.com/andreycretsu/vue-main-app.git
